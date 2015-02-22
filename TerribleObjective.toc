@@ -1,0 +1,8 @@
+## Title:  |cffFF4500TerribleObjective
+## Interface: 60300
+## Author: Kygo
+## Version: 1.0
+## Notes: Hides, scales and shows the bulky objective frame.
+## SavedVariablesPerCharacter: TerribleObjectiveDB
+
+TerribleObjective.lua
