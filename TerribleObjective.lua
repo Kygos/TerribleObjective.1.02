@@ -1,10 +1,4 @@
-TerribleObjectiveDB = {
-	auto = true,
-	off = false,
-	show = false,
-	hide = false,
-	scale = false,
-}
+TerribleObjectiveDB = {}
 
 Enabled = true
 
